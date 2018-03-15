@@ -1,0 +1,10 @@
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboGuiTest.MainForm.resources
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboEncoder.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboGuiTest.exe
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboGuiTest.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\bin\Debug\EboGuiTest.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\bin\Debug\EboGuiTest.exe
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\bin\Debug\EboGuiTest.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboGuiTest.Properties.Resources.resources
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\EboGuiTest\EboGuiTest\obj\Debug\EboEncoder.csproj.CoreCompileInputs.cache
